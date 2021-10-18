@@ -1,0 +1,42 @@
+#headline {
+	text-align: center;
+	font-weight: bold;
+}
+
+#byline {
+	text-align: center;
+}
+
+#chapterheadline {
+	font-weight: bold;
+	padding-left: 75px;
+	padding-top: 50px;
+}
+
+#paragraph {
+	padding-left: 77px;
+}
+
+#image {
+	max-height: 500px;
+	max-width: 800px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+}
+
+#caption {
+	padding-left: 300px;
+}
+
+#body {
+	padding-left: 77px;
+	padding-top: 50px;
+}
+
+#footer {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}

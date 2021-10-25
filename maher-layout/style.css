@@ -1,0 +1,84 @@
+#content {
+	margin: 0 auto;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	font-family: Georgia, serif;
+	font-size: 13px;
+}
+
+#masthead {
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 900px;
+}
+
+#byline {
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+}
+
+#headline {
+	font-family: Helvetica, sans-serif;
+}
+
+#sarah {
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 900px;
+}
+
+#captionone {
+	font-style: italic;
+}
+
+#machine {
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 900px;
+}
+
+#captiontwo {
+	font-style: italic;
+}
+
+#speech {
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 900px;
+}
+
+#captionthree {
+	font-style: italic;
+}
+
+#pullquote {
+	font-size: 20px;
+	text-align: center;
+}
+
+#readmore {
+	padding-top: 15px;
+}
+
+#graphic {
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 900px;
+}
+
+#graphiccap {
+	text-align: center;
+}

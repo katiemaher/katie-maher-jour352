@@ -1,0 +1,155 @@
+#page {
+	background-color: blue;
+}
+
+#name {
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	font-family: trebuchet;
+	padding-top: 30px;
+}
+
+#title {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-family: trebuchet;
+	padding-top: 30px;
+}
+
+#header {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	max-height: 600px;
+}
+
+#bio {
+	text-align: center;
+	color: ghostwhite;
+	padding-top: 50px;
+	font-family: trebuchet;
+	font-size: 20px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
+	padding-bottom: 20px;
+}
+
+#contact {
+	text-align: center;
+	color: black;
+	font-family: trebuchet;
+	font-size: 30px;
+	text-decoration: underline;
+	padding-bottom: 20px;
+	font-weight: bold;
+}
+
+#contacts {
+	text-align: center;
+	color: white;
+	font-family: trebuchet;
+	font-size: 20px;
+}
+
+#copyright {
+	text-align: center;
+	color: black;
+	font-family: trebuchet;
+	font-size: 15px;
+	padding-top: 100px;
+	padding-bottom: 30px;
+}
+
+#topper {
+	text-align: center;
+	color: black;
+	font-family: trebuchet;
+	font-size: 40px;
+	padding-top: 40px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#organization {
+	text-align: center;
+	color: ghostwhite;
+	font-family: trebuchet;
+	font-size: 35px;
+	padding-top: 30px;
+	font-style: italic;
+	max-width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#jobtitle {
+	text-align: center;
+	color: ghostwhite;
+	font-family: trebuchet;
+	font-size: 30px;
+	max-width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#location {
+	text-align: center;
+	color: ghostwhite;
+	font-family: trebuchet;
+	font-size: 20px;
+	padding-top: 5px;
+	max-width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#description {
+	text-align: center;
+	color: ghostwhite;
+	font-family: courier new;
+	font-size: 20px;
+	max-width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#skills {
+	text-align: center;
+	color: ghostwhite;
+	font-family: trebuchet;
+	font-size: 25px;
+	max-width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+}
+
+#portfolio {
+	text-align: center;
+	color: ghostwhite;
+	font-family: trebuchet, georgia;
+	font-size: 20px;
+	max-width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+}
+
+#video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
+	text-align: center;
+}

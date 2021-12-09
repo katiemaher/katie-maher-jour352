@@ -1,0 +1,144 @@
+#header {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+#headline {
+	font-family: 'Playfair Display', serif;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
+	font-size: 50px;
+	padding-top: 20px;
+	font-weight: bold;
+}
+
+#byline {
+	font-family: 'Playfair Display', serif;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
+	font-size: 20px;
+	padding-top: 20px;
+	font-style: italic;
+}
+
+#bodytext {
+	font-family: 'Playfair Display', serif;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
+	font-size: 20px;
+	padding-top: 20px;
+	font-style: bold;
+}
+
+#stats {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
+	padding-top: 20px;
+	font-family: 'Playfair Display', serif;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.center {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+#next {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
+	padding-top: 20px;
+	font-family: 'Playfair Display', serif;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+#fastfacts {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
+	padding-top: 20px;
+	font-family: 'Playfair Display', serif;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+#pullquote {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 60%;
+	padding-top: 20px;
+	font-family: 'Playfair Display', serif;
+	border-color: #FF1D95;
+	border-width: 5px;
+	border-style: double;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#list {
+	font-family: 'Playfair Display', serif;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
+	font-size: 20px;
+	padding-top: 20px;
+}
+
+#image {
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+}
+
+#worldcup {
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#equalpay {
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#figcaption {
+	text-align: center;
+	max-width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Playfair Display', serif;
+	font-size: 14px;
+}
+
+#copyright {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-family: 'Playfair Display', serif;
+}
